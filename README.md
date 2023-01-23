@@ -11,8 +11,6 @@ First, I wanted to see how the three locations selected connect to one another, 
 Overall, UW wraps up both locations nicely, as UW could also be described as free and rebellious. We know that UW's slogan is to be boundless and to explore creativity. The best possible reason for these patterns is Seattle's overall location. In addition, Seattle is home to many cultures and ideals. However, all of those fall under a sense of creativity and thinking out of the box. 
 To improve my research, I would explore other popular locations outside Seattle. Or even out of the state to see if there is a sense of connectivity among other areas. Before exploring the research, the chosen locations were different as they established separate areas. So I could be stretching the idea so that it could fit. Nevertheless, the notion of connectivity runs throughout Seattle.
 
-![CapHill2](https://user-images.githubusercontent.com/119153928/214151090-cf76ccce-6daf-48c8-ad9c-b7f0d9d3862d.png)
-
 <img src="[https://your-image-url.type](https://user-images.githubusercontent.com/119153928/214151090-cf76ccce-6daf-48c8-ad9c-b7f0d9d3862d.png)" width="100" height="100">
           
           
