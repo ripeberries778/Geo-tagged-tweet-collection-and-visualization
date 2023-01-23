@@ -12,6 +12,8 @@ To improve my research, I would explore other popular locations outside Seattle.
 
 
 
-[twsearch-result-UW1.csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483715/twsearch-result-UW1.csv)
-[twsearch-result-2(Cap Hill).csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483716/twsearch-result-2.Cap.Hill.csv)
-[twsearch-result-GasWork3.csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483720/twsearch-result-GasWork3.csv)
+[twsearch-result-1.csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483715/twsearch-result-UW1.csv)
+
+[twsearch-result-2.csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483716/twsearch-result-2.Cap.Hill.csv)
+
+[twsearch-result-3.csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483720/twsearch-result-GasWork3.csv)
