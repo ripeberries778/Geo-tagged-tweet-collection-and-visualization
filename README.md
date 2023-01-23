@@ -6,6 +6,12 @@ To improve my research, I would explore other popular locations outside Seattle.
 
 ![CapHill2](https://user-images.githubusercontent.com/119153928/214151090-cf76ccce-6daf-48c8-ad9c-b7f0d9d3862d.png)
 ![Gasworkpark3](https://user-images.githubusercontent.com/119153928/214151098-79b42bd0-ce73-4ca9-a18f-75bf15d75727.png)
-[twsearch-result-GasWork3.csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483703/twsearch-result-GasWork3.csv)
-[twsearch-result-UW1.csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483704/twsearch-result-UW1.csv)
-[twsearch-result-2(Cap Hill).csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483705/twsearch-result-2.Cap.Hill.csv)
+
+
+
+
+
+
+[twsearch-result-UW1.csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483715/twsearch-result-UW1.csv)
+[twsearch-result-2(Cap Hill).csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483716/twsearch-result-2.Cap.Hill.csv)
+[twsearch-result-GasWork3.csv](https://github.com/ripeberries778/Geo-tagged-tweet-collection-and-visualization/files/10483720/twsearch-result-GasWork3.csv)
