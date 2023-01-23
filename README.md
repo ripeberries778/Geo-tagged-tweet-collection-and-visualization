@@ -13,9 +13,7 @@ To improve my research, I would explore other popular locations outside Seattle.
 
 ![CapHill2](https://user-images.githubusercontent.com/119153928/214151090-cf76ccce-6daf-48c8-ad9c-b7f0d9d3862d.png)
 
-<img src=".https://user-images.githubusercontent.com/119153928/214151090-cf76ccce-6daf-48c8-ad9c-b7f0d9d3862d.png" witdth=600 height=300>
-          
-          
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/119153928/214151090-cf76ccce-6daf-48c8-ad9c-b7f0d9d3862d.png)" width="100" height="100">
           
           
           
